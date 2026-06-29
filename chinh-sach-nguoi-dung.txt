@@ -1,20 +1,29 @@
 Điều Khoản Dịch Vụ -- Bao Nhi Cute Discord Bot
 Có hiệu lực: 29/06/2026
-1. Chấp nhận
-Khi thêm hoặc sử dụng Bao Nhi Cute Discord Bot, bạn đồng ý với các điều
-khoản này.
+
+1. Chấp nhận Điều khoản
+Khi thêm hoặc sử dụng Bao Nhi Cute Discord Bot, bạn đồng ý tuân thủ Điều khoản Dịch vụ này.
+
 2. Mục đích
-Bot cung cấp các tính năng quản lý máy chủ Discord như chống spam, chống
-link, chống invite và các lệnh quản trị.
+Bot cung cấp các tính năng quản lý máy chủ Discord như chống spam, chống liên kết, chống lời mời (invite), cùng nhiều lệnh quản trị khác.
+
 3. Quy tắc sử dụng
-Không sử dụng bot để vi phạm Điều khoản của Discord.
-Không lạm dụng bot để gây ảnh hưởng đến máy chủ khác.
-Chủ máy chủ chịu trách nhiệm về cách cấu hình bot.
+
+Không sử dụng bot để vi phạm Điều khoản Dịch vụ của Discord.
+Không sử dụng bot nhằm quấy rối, phá hoại hoặc gây ảnh hưởng tiêu cực đến máy chủ khác.
+Chủ máy chủ chịu trách nhiệm đối với cấu hình và cách sử dụng bot.
+
 4. Giới hạn trách nhiệm
-Bot được cung cấp "nguyên trạng". Chúng tôi không đảm bảo bot hoạt động
-liên tục 100% và không chịu trách nhiệm cho mọi thiệt hại phát sinh từ
-việc sử dụng bot.
-5. Quyền thay đổi
-Chúng tôi có thể cập nhật các điều khoản này bất kỳ lúc nào.
-6. Liên hệ
-Emil:nghoangbaonhi386@gmail.com
+Bot được cung cấp "nguyên trạng" (as is). Chúng tôi không đảm bảo bot sẽ hoạt động liên tục hoặc không có lỗi và không chịu trách nhiệm đối với bất kỳ thiệt hại nào phát sinh từ việc sử dụng bot.
+
+5. Thay đổi dịch vụ
+Chúng tôi có quyền cập nhật, sửa đổi hoặc ngừng cung cấp một phần hoặc toàn bộ tính năng của bot bất kỳ lúc nào.
+
+6. Chấm dứt sử dụng
+Chúng tôi có quyền hạn chế hoặc chấm dứt quyền sử dụng bot đối với các máy chủ hoặc người dùng vi phạm Điều khoản này hoặc Điều khoản Dịch vụ của Discord.
+
+7. Thay đổi Điều khoản
+Điều khoản này có thể được cập nhật bất kỳ lúc nào. Phiên bản mới sẽ có hiệu lực ngay sau khi được công bố.
+
+8. Liên hệ
+Email: nghoangbaonhi386@gmail.com
