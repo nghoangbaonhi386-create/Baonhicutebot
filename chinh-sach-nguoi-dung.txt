@@ -29,9 +29,9 @@ Chúng tôi có quyền hạn chế hoặc chấm dứt quyền sử dụng bot 
 Email: nghoangbaonhi386@gmail.com
 
 9. Quyền riêng tư
-Việc xử lý dữ liệu của Bao Nhi Cute Discord Bot được quy định trong Chính sách Quyền riêng tư. Khi sử dụng bot, bạn đồng ý với Chính sách Quyền riêng tư đó.
+Việc xử lý dữ liệu của Bao Nhi Cute Discord Bot được quy định trong Chính sách Quyền riêng tư. Bằng việc sử dụng bot, bạn xác nhận đã đọc và đồng ý với Chính sách Quyền riêng tư.
 
-10. quyền Độ tuổi
+10. Độ tuổi
 Người dùng phải đáp ứng yêu cầu về độ tuổi theo Điều khoản Dịch vụ của Discord. Nếu người dùng chưa đủ tuổi theo quy định của Discord hoặc pháp luật tại nơi cư trú, việc sử dụng Bao Nhi Cute Discord Bot phải được sự cho phép của cha mẹ hoặc người giám hộ hợp pháp (nếu pháp luật yêu cầu).
 
 11. Luật áp dụng
