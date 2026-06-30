@@ -35,5 +35,6 @@ Việc xử lý dữ liệu của Bao Nhi Cute Discord Bot được quy định 
 Người dùng phải đáp ứng yêu cầu về độ tuổi theo Điều khoản Dịch vụ của Discord. Nếu người dùng chưa đủ tuổi theo quy định của Discord hoặc pháp luật tại nơi cư trú, việc sử dụng Bao Nhi Cute Discord Bot phải được sự cho phép của cha mẹ hoặc người giám hộ hợp pháp (nếu pháp luật yêu cầu).
 
 11. Luật áp dụng
-Điều khoản Dịch vụ này được điều chỉnh và giải thích theo pháp luật hiện hành trong phạm vi pháp luật cho phép. Nếu bất kỳ điều khoản nào bị xác định là không hợp lệ hoặc không thể thi hành, các điều khoản còn lại vẫn giữ nguyên hiệu lực.
+Điều khoản Dịch vụ này được điều chỉnh và giải thích theo pháp luật hiện hành trong phạm vi pháp luật áp dụng. Nếu bất kỳ điều khoản nào bị xác định là không hợp lệ hoặc không thể thi hành, các điều khoản còn lại vẫn giữ nguyên hiệu lực.
 
+Cảm ơn bạn đã tin tưởng và sử dụng Bao Nhi Cute Discord Bot.
